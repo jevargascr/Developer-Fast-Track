@@ -153,7 +153,7 @@ NAME           STATUS   ROLES   AGE     VERSION
 Abra Cloud Shell y ejecute **git clone** el código de la aplicación:
 
 ```bash
-git clone https://github.com/ChristoPedro/labcodeappdev.git 
+git clone https://github.com/jevargascr/OKECodeAppDev.git 
 ```
 
 **Resultado**
@@ -165,7 +165,7 @@ git clone https://github.com/ChristoPedro/labcodeappdev.git
 Navegue la carpeta de back-end:
 
 ```bash
-cd labcodeappdev/Backend/code
+cd OKECodeAppDev/Backend/code/
 ```
 
 Vamos a revisar la imagen de back-end y luego enviémosla a OCIR.
