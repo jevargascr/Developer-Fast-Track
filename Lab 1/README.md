@@ -1,11 +1,11 @@
 # Lab. 1 - Aprovisionamiento de recursos 
 
-En esta etapa, se aprovisionará recursos dentro de OCI utilizando Terraform con el servicio **Resource Manager**!
+En esta etapa, se aprovisionarán recursos dentro de OCI utilizando Terraform con el servicio **Resource Manager**!
 
 - 🌀 [Página oficial de Resource Manager](https://www.oracle.com/pe/devops/resource-manager/)
 - 🧾 [Documentaçión de Resource Manager](https://docs.oracle.com/en-us/iaas/Content/ResourceManager/home.htm)
 
-Los recursos provisionados serán:
+Los recursos a aprovicionar serán:
 - OKE
 - Artifact Registry
 - Container Registry
@@ -25,8 +25,8 @@ Junto con recursos de red y administración como:
 
 - - -
 
-# Requisitos Previos - creación de compartimentos
-Como requisito previo, es una buena idea crear un compartimento aislado para poder agrupar nuestros recursos.
+# Requisitos Previos - creación de compartments
+Como requisito previo, es una buena idea crear un compartment aislado para poder agrupar nuestros recursos.
 
 1. Para hacer esto, inicie sesión o [login](https://www.oracle.com/cloud/sign-in.html) en su cuenta de OCI.
 2. Desde el menú ☰ acceder: **Identity & Security** → **Identity** → **Compartments**.
@@ -34,11 +34,11 @@ Como requisito previo, es una buena idea crear un compartimento aislado para pod
 
 ![](./Imágenes/IMG00_1.png)
 
-3. En la nueva ventana, haga clic en Crear compartimento.
+3. En la nueva ventana, haga clic en Crear compartment.
  
 ![](./Imágenes/IMG00_2.png)
 
-4. Introduzca un nombre para el compartimento y también una descripción. Una vez hecho esto, haga clic en **Crear compartimento**.
+4. Introduzca un nombre para el compartment y también una descripción. Una vez hecho esto, haga clic en **Crear compartment**.
 Ejemplo: 
    - ***Name:*** DevFT 
    - ***Description:*** Compartment para labs Developer Fast Track 
@@ -53,7 +53,7 @@ Ejemplo:
 
 Como primer paso, debemos descargar el archivo (zip) desde el repositorio de github.
 
-1. Para hacer esto, vaya al [repositorio](https://github.com/kapvar9/Terraform-Dev-FT-MCR) y haga clic en **Descargar ZIP**.
+1. Para hacer esto, vaya al [repositorio](https://github.com/jevargascr/Terraform-Developer-Fast-Track) y haga clic en **Descargar ZIP**.
 
 ![](./Imágenes/IMG01_2.png)
 
@@ -68,7 +68,7 @@ Como primer paso, debemos descargar el archivo (zip) desde el repositorio de git
 
 ![](./Imágenes/IMG02.png)
 
-3. En esta nueva ventana, acceda al compartimento creado anteriormente y haga clic en **Create Stack**.
+3. En esta nueva ventana, acceda al compartment creado anteriormente y haga clic en **Create Stack**.
 
 ![](./Imágenes/IMG03.png)
 
@@ -78,7 +78,7 @@ Como primer paso, debemos descargar el archivo (zip) desde el repositorio de git
 
 5. Haga clic en **Next**, para que podamos configurar algunos parámetros sobre los recursos a provisionar.
 
-6. En esta nueva pantalla, recuerda seleccionar el compartimento creado anteriormente y haz clic en **Mostrar opciones avanzadas**.
+6. En esta nueva pantalla, recuerda seleccionar el compartment creado anteriormente y haz clic en **Mostrar opciones avanzadas**.
 
 ![](./Imágenes/IMG05.png)
 
@@ -100,7 +100,7 @@ Como primer paso, debemos descargar el archivo (zip) desde el repositorio de git
 
 COMPLETASTE EXITOSAMENTE EL LABORATORIO N#1 !! 💯✅
 
-<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR">Regresar</a>
+<a href="https://github.com/jevargascr/Developer-Fast-Track">Regresar</a>
 
 
 
