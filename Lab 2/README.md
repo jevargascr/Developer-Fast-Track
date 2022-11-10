@@ -75,7 +75,7 @@ Luego vaya a Auth Tokens y genere un nuevo token, guarde el código del token en
 
 ### Datos de APM
 
-Navegue por el menú principal hasta Observability & Management > Application Monitoring> Administration
+Desde el menú ☰ acceder: **Observability & Management** → **Application Monitoring** → **Administration**.
 
 Haga clic en el dominio creado por Resource Manager en la práctica de laboratorio anterior y copie los datos de Endpoint y Public Key.
 
