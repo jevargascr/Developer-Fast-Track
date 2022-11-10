@@ -66,7 +66,7 @@ Haga clic en el menú del lado derecho en el icono de usuario, haga clic en su n
 
 ![user](Imagenes/user1.png)
 
-Copie el OCID del usuario y guárdelo en el bloc de notas.
+Copie el nombre del usuario y guárdelo en el bloc de notas.
 
 Luego vaya a Auth Tokens y genere un nuevo token, guarde el código del token en el bloc de notas (Solo aparece 1 vez).
 
