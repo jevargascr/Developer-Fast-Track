@@ -114,7 +114,7 @@ https://docs.docker.com/engine/reference/commandline/login/#credentials-store
 
 ## Configurar Kubectl
 
-Ahora configuremos el acceso a Kubernetes a través de Kubectl en Cloud Shell, en el menú principal ir **Developer Services > Containers & Artifacts > Kubernetes Clusters (OKE)**.
+Ahora configuremos el acceso a Kubernetes a través de Kubectl en Cloud Shell, Desde el menú ☰ acceder: **Developer Services > Containers & Artifacts > Kubernetes Clusters (OKE)**.
 
 Ingresar al clúster creado a través del Administrador de recursos y haga clic en el botón **Access Cluster**
 
