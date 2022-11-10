@@ -29,7 +29,7 @@ Junto con recursos de red y administración como:
 Como requisito previo, es una buena idea crear un compartment aislado para poder agrupar nuestros recursos.
 
 1. Para hacer esto, inicie sesión o [login](https://www.oracle.com/cloud/sign-in.html) en su cuenta de OCI.
-2. Desde el menú ☰ acceder: **Identity & Security** → **Identity** → **Compartments**.
+2. Desde el menú ☰ acceder: **Identity & Security** → **Compartments**.
 
 
 ![](./Imágenes/IMG00_1.png)
