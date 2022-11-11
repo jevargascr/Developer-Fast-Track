@@ -322,7 +322,7 @@ Con CORS configurado, podemos hacer clic en **Next** y configurar la ruta. Compl
 - **PATH**: /getcep
 - **METHODS**: GET
 - **TYPE**: HTTP
-- **URL**: ```http://[External-IP-do-LoadBalancer]:5000```
+- **URL**: ```http://[External-IP-del-LoadBalancer]:5000```
 
 
 ![apigw](Imagenes/api4.png)
@@ -369,7 +369,7 @@ vi api.js
 Reemplacemos la variable url.
 
 ```js
-const url = '[Substituia com a URL do API Gateway]'
+const url = '[Sustitutya con la URL del API Gateway]'
 
 ```
 
@@ -402,10 +402,10 @@ Y reemplaza los valores en las siguientes líneas:
   window.apmrum = (window.apmrum || {}); 
   window.apmrum.serviceName='CEP';
   window.apmrum.webApplication='cepapp';
-  window.apmrum.ociDataUploadEndpoint='[Substitua com o Endpoint do APM]';
-  window.apmrum.OracleAPMPublicDataKey='[Substitua com a Public Key do APM]';
+  window.apmrum.ociDataUploadEndpoint='[Sustitutya con el Endpoint del APM]';
+  window.apmrum.OracleAPMPublicDataKey='[Sustitutya con la Public Key del APM]';
 </script>
-<script async crossorigin="anonymous" src="[Substitua com o Endpoint do APM]/static/jslib/apmrum.min.js"></script>
+<script async crossorigin="anonymous" src="[Sustitutya con el Endpoint del APM]/static/jslib/apmrum.min.js"></script>
 ```
 
 Guarda el archivo.
