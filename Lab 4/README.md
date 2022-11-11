@@ -266,7 +266,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
  - **Name**: deployment.yaml
  - **Type**: Kubernetes manifest
  - **Artifact Source**: Inline
- - **Value**: pegue el contenido del archivo https://github.com/CeInnovationTeam/BackendFTDev/blob/main/scripts/deployment.yaml
+ - **Value**: pegue el contenido del archivo https://github.com/jevargascr/BackendFTDev/blob/main/scripts/deployment.yaml
  *No cambie la indentación (espacios) del documento, ya que esto puede romperlo .*.
  - **Replace parameters used in this artifact**: Yes, substitute placeholders
           
