@@ -23,5 +23,5 @@ Accede a tus laboratorios de interés aquí 👇
 
 COMPLETASTE EXITOSAMENTE EL LABORATORIO N#3 !! 💯✅
 
-<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR">Regresar</a>
+<a href="https://github.com/jevargascr/Developer-Fast-Track">Regresar</a>
 
