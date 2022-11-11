@@ -24,10 +24,10 @@
         <br>
         <ul>
             <li><b>Display name: </b>Regla1_Workshop</li>
-            <li><b>Display name: </b>Primera regla</li>
+            <li><b>Description: </b>Primera regla</li>
             <li><b>Condition: </b>Event type</li>
             <li><b>Service name: </b>Object Storage</li>
-            <li><b>Display name: </b>Object Create</li>
+            <li><b>Event Type: </b>Object Create</li>
         </ul>
         <br>
         <img src="/Lab 3/images/Screenshot_21.png" alt="img21">
