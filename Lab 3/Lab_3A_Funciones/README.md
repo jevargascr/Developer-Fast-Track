@@ -25,7 +25,7 @@
 <br>
 <h2>Configurando ambiente de Cloud Shell</h2>
 <p>Para este lab, usaremos la función ya creada llamada <b>functionworkshop</b> que se encuentra dentro del
-    compartimiento DevFT. Desde el menú ☰ acceder: **Developer Services** → **Applications** → **functionworkshopa**.
+    compartimiento DevFT. Desde el menú ☰ acceder: **Developer Services** → **Applications** → **functionworkshop**.
 </p>
 <br>
 <img src="/Lab 3/images/image13.png" alt="img13">
@@ -91,7 +91,7 @@
     </li>
     <h2>Crear, desplegar e invocar la función </h2>
     <li>Clona el repositorio que se va a usar en esta workshop &#10145; $ git clone
-        https://github.com/gustavogaspar/events-function.git
+        https://github.com/jevargascr/Events-Function.git
         <br>
     </li>
     <br>
