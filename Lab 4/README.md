@@ -410,5 +410,5 @@ svc-java-app   LoadBalancer   10.96.16.229    <EXTERNAL-IP>   8081:32344/TCP   1
 
 COMPLETASTE EXITOSAMENTE EL LABORATORIO N#4 !! 💯✅
 
-<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR">Regresar</a>
+<a href="https://github.com/jevargascr/Developer-Fast-Track">Regresar</a>
 
