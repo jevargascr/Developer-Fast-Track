@@ -25,7 +25,7 @@
 <br>
 <h2>Configurando ambiente de Cloud Shell</h2>
 <p>Para este lab, usaremos la función ya creada llamada <b>functionworkshop</b> que se encuentra dentro del
-    compartimiento DevFT. Desde el menú ☰ acceder: **Developer Services** → **Applications** → **functionworkshop**.
+    compartimiento DevFT. Desde el menú ☰ acceder: **Developer Services** → **Applications** → **functionworkshopa**.
 </p>
 <br>
 <img src="/Lab 3/images/image13.png" alt="img13">
