@@ -116,7 +116,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
  4. Abra el pipeline build recién creado.
  5. En la pestaña de parámetros, configure los siguientes parámetros:
   - APM_ENDPOINT: *Información recopilada en prerequisitos*.
-  - APM_PVDATAKEY: *Información recopilada en prerequisitos*.
+  - APM_PVDATAKEY: *Información recopilada en prerequisitos Private Key*.
   - APM_AGENT_URL: *Información recopilada en prerequisitos*.
 
   **ATENCIÓN** - Al ingresar nombre, valor y descripción, haga clic en el signo "+" para guardar la información.
@@ -161,8 +161,8 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 - La herramienta utiliza un documento en formato YAML para definir los pasos que se deben realizar durante el proceso de construcción de la aplicación.
 - Por defecto este documento se llama build_spec.yaml y debe configurarse previamente de acuerdo a las necesidades de la aplicación.
 - Luego, los pasos serán ejecutados por una instancia temporal (agente), que se aprovisionará al comienzo de cada ejecución y se destruirá al final del proceso.
-- 🧾 [Documentación sobre cómo dar formato al documento de build](https://docs.oracle.com/pt-br/iaas/Content/devops/using/build_specs.htm)
-- 📑 [Documento utilizado en este workshop (build_spec.yaml)](https://raw.githubusercontent.com/CeInnovationTeam/BackendFTDev/main/build_spec.yaml)
+- 🧾 [Documentación sobre cómo dar formato al documento de build](https://docs.oracle.com/en-us/iaas/Content/devops/using/build_specs.htm)
+- 📑 [Documento utilizado en este workshop (build_spec.yaml)](https://github.com/jevargascr/BackendFTDev/blob/main/docker_build_spec.yaml)
 
  ## <a name="Paso3"></a> Paso 3: crear y configurar la entrega de artefactos (CI)
 
