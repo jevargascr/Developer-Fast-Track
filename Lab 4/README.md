@@ -194,7 +194,7 @@ En este paso, creará un ambiente de desarrollo, con el servicio **OCI DevOps**,
 ![imagen](https://user-images.githubusercontent.com/59672915/200368117-85e05e35-9e6b-4e82-855b-db3b19143b7c.png)
 
 
-5. Rellene el campo restante de la tabla de **Build config/result artifact name** con "aplicación" y haga clic en **Add**.
+5. Rellene el campo restante de la tabla de **Build config/result artifact name** con "app" y haga clic en **Add**.
     
 ![imagen](https://user-images.githubusercontent.com/59672915/200370011-458dbfa9-a25b-4ebd-99d8-c2e840938ec6.png)
 
