@@ -17,8 +17,8 @@
 
 Accede a tus laboratorios de interés aquí 👇
 <ul>
-    <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/blob/main/Lab%203/Lab_3A_Funciones/README.md">Lab 3A - Funciones</a></li>
-    <li><a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/blob/main/Lab%203/Lab_3B_Eventos/README.md">Lab 3B - Eventos</a></li>
+    <li><a href="https://github.com/jevargascr/Developer-Fast-Track/tree/main/Lab%203/Lab_3A_Funciones">Lab 3A - Funciones</a></li>
+    <li><a href="https://github.com/jevargascr/Developer-Fast-Track/tree/main/Lab%203/Lab_3B_Eventos">Lab 3B - Eventos</a></li>
 </ul>
 
 COMPLETASTE EXITOSAMENTE EL LABORATORIO N#3 !! 💯✅
