@@ -357,7 +357,7 @@ Para Frontend, necesitamos reemplazar la URL del backend y la información de AP
 Naveguemos a la carpeta javascript:
 
 ```bash
-cd $HOME/labcodeappdev/Frontend/code/js
+cd OKECodeAppDev/Frontend/code/js
 ```
 
 Y edite el archivo **api.js**
