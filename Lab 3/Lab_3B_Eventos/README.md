@@ -147,4 +147,4 @@
 
 COMPLETASTE EXITOSAMENTE EL LABORATORIO N#3.B !! 💯✅
 
-<a href="https://github.com/kapvar9/Developer-Fast-Track-MCR/tree/main/Lab%203">Regresar</a>
+<a href="https://github.com/jevargascr/Developer-Fast-Track/tree/main/Lab%203">Regresar</a>
