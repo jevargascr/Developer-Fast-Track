@@ -1,4 +1,4 @@
-<h1>OCI Developer Fast Track MCR</h1>
+<h1>OCI Developer Fast Track</h1>
   
 <p>¡Este es el repositorio donde almacenamos todo el material para los laboratorios Dev Fast Track!</p>
 ¡Accede a la secuencia de laboratorios! ⬇</p>
